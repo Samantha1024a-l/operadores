@@ -1,0 +1,5 @@
+PostgreSQL
+PostgreSQL é um SGBD relacional e objeto-relacional, open-source, conhecido por sua robustez e suporte a uma ampla variedade de tipos de dados.
+
+MySQL
+MySQL é outro SGBD relacional amplamente utilizado, especialmente para aplicações web.
